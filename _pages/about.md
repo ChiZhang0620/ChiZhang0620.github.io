@@ -22,7 +22,7 @@ Hi, I'm Chi Zhang, currently a 3rd-year Mathematics and Statistics - Statistics 
 
 # 🔥 News
 - *2025.06.12*: &nbsp;🎉🎉 I started my Assistant Service Operations Specialist Co-op at iFLYTECK!.
-- *2024.07.09*: &nbsp;🎉🎉 I started my Data Analyst Assistant internship at Industrial and Commercial Bank of China!.
+- *2024.07.09*: &nbsp;🎉🎉 I started my Data Analyst Assistant internship at Industrial and Commercial Bank of China!
 - *2022.09.06*: &nbsp;🎉🎉 My super fulfilling first day at McMaster University!
 
 # 📝 Projects
