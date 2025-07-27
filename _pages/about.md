@@ -33,5 +33,5 @@ Hi, I'm Chi Zhang, currently a 3rd-year Mathematics and Statistics - Statistics 
 - *2022.09 - 2027.05(now)*, McMaster University, Bachelor of Science Honors Mathematics and Statistics – Statistics Specialization Co-op
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [iFLYTECK](https://www.iflytek.com/en/index.html), China.
-- *2019.05 - 2020.02*, [Industrial and Commercial Bank of China](https://www.icbc-ltd.com/ICBCLtd/en/), China.
+- *2025.06 - 2025.08*, [iFLYTECK](https://www.iflytek.com/en/index.html), China.
+- *2024.07 - 2024.08*, [Industrial and Commercial Bank of China](https://www.icbc-ltd.com/ICBCLtd/en/), China.
