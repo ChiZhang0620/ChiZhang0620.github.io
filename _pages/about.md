@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Chi Zhang, currently a 3rd-year Mathematics and Statistics - Statistics Specialization Co-op student at McMaster.
+Hi, I'm Chi Zhang, currently a 3rd-year Mathematics and Statistics - Statistics Specialization Co-op student at McMaster University.
 
 
 # 🔥 News
