@@ -26,7 +26,7 @@ Hi, I'm Chi Zhang, currently a 3rd-year Mathematics and Statistics - Statistics 
 - *2022.09.06*: &nbsp;🎉🎉 My super fulfilling first day at McMaster University!
 
 # 📝 Projects
-- *2025.05, Customer Product Sales MySQL Analysis Project.
+- 2025.05, Customer Product Sales MySQL Analysis Project.
 - *2024.09 - 2024.12*, Mathematical Modeling R Project of Drugs in the Body. 
 
 # 📖 Educations
